@@ -4,6 +4,9 @@
 
 **Code for cropping an image, code for filtering an image** 
 
+- **IMAGE CROPPING**
+- **BLACK N WHITE FILTER**
+- **GRAYSCALE IMAGE FILTER**
 
 ### PACKAGES USED
 
